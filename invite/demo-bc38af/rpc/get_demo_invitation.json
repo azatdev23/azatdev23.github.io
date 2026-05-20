@@ -4,12 +4,12 @@
     "our-story",
     "drawing-3",
     "timeline",
-    "menu",
     "venue",
     "accommodation",
     "activities",
     "drawing-2",
-    "destination"
+    "destination",
+    "menu"
   ],
   "message": "\n\n\nYou are invited for our special day\n\n",
   "event_id": "98032531-8029-42fd-8ba2-3f50d3ab7f3a",
@@ -50,29 +50,11 @@
         {
           "items": [
             {
-              "name": "Caviar",
+              "name": "Темир & Бурул\n Айгүл & Азат",
               "description": ""
             }
           ],
-          "title": "Starter"
-        },
-        {
-          "items": [
-            {
-              "name": "Steak friete",
-              "description": ""
-            }
-          ],
-          "title": "Main"
-        },
-        {
-          "items": [
-            {
-              "name": "dame blanche",
-              "description": ""
-            }
-          ],
-          "title": "dessert"
+          "title": "Той ээлери"
         }
       ]
     },
