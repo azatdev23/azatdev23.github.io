@@ -50,8 +50,8 @@
         {
           "items": [
             {
-              "name": "Темир & Бурул\n\n Айгүл & Азат",
-              "description": ""
+              "name": "Темир & Бурул",
+              "description": "Айгүл & Азат"
             }
           ],
           "title": "Той ээлери"
@@ -111,7 +111,7 @@
       }
     ],
     "countdown": {
-      "message": "Биз чыдамсыздык менен күтөн күн",
+      "message": "30-05-2026 16:00",
       "showEmbroidery": true,
       "backgroundColor": "hsl(35 30% 80%)"
     },
