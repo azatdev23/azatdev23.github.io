@@ -21,7 +21,7 @@
   "event_date": "2026-05-30",
   "event_type": "Wedding",
   "style_name": "Fairytale",
-  "text_color": "#722f37",
+  "text_color": "#ffffff",
   "venue_name": "the grand room",
   "event_title": "Gregory drex I Boschman's Wedding",
   "font_family": "Roboto",
@@ -277,14 +277,14 @@
     "fr": "82d109d6-fr"
   },
   "reception_time": "16:00:00",
-  "subtitle_color": "#722f37",
+  "subtitle_color": "#ffffff",
   "date_font_style": "default",
   "event_languages": [
     "en",
     "fr"
   ],
   "background_image": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/98032531-8029-42fd-8ba2-3f50d3ab7f3a/background-1774942596363.mov",
-  "block_text_color": "#722f37",
+  "block_text_color": "#ffffff",
   "custom_video_url": "https://azatdev23.github.io/invite/demo-bc38af/assets/opening-animation-1777113086183.mp4",
   "headline_subtitle": "Үйлөнүү тою",
   "subtitle_position": "below",
@@ -294,7 +294,7 @@
   "social_share_image": "https://kdcyugwruypwrmtllswt.supabase.co/storage/v1/object/public/invitation-assets/share-images/98032531-8029-42fd-8ba2-3f50d3ab7f3a-1776959218820.png?v=1776959220096",
   "subtitle_font_size": 13,
   "envelope_font_style": "Cinzel",
-  "envelope_text_color": "#722f37",
+  "envelope_text_color": "#ffffff",
   "headline_font_style": "Lobster",
   "subtitle_font_style": "Dancing Script",
   "content_translations": {
